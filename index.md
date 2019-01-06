@@ -21,32 +21,33 @@ In my spare time I test my machine learning skills in Kaggle competitions, impro
 ## Professional Experience
 
 ### Bachelor of Civil Engineering (1st Class Hons) from The University of Queensland
-### 2008 - 2012
+**2008 - 2012**
 Received the AECOM Scholarship in Civ. Eng., the premier scholarship awarded by UQ's Civ. Eng. school.
 
 ### AECOM (Professional Experience Intern) 2011
 ###EarthCheck (Environmental benchmarking of business operations) 2011 - 2012
 
 ### Veitch Lister Consulting (Transport Modeller)
-### 2012 - 2016
+**2012 - 2016**
 [http://www.veitchlister.com.au](http://www.veitchlister.com.au)
 VLC is a specialist Australian transport modelling consultancy.
 My work included: analysing transport related data sets, for example census data, spatial transport network data, and temporal public transport and traffic timetable data; developing transport related models - from nested logistic regressions of individual mode choice to dynamic traffic assignment models; and developing the software required to perform these tasks and presenting the results to VLC's clients. VLC strived to stay on the leading edge of transport modelling by excelling at data science and statistical modelling, at VLC I was involved in researching and developing the use of machine learning models in transport modelling.
 
 ### Save Indonesian Endangered Species Fund (SIES) (Treasurer)
-### 2015 - 2018
+**2015 - 2018**
 [http://www.siesfund.org](http://www.siesfund.org)
 SIES is an incorporated not-for-profit organisation, staffed entirely by volunteers, which supports conservation in Indonesia - Sumatra, Kalimantan, and Eastern Indonesia. My responsibilities include accounting, financial reporting, writing project proposals and grant applications, and providing data science and modelling assistance on projects as required.
 
 ### Real Estate Modelling Business Development Project (Data Scientist, Software Engineer, and Modeller)
-### 2016 - 2018
+**2016 - 2018**
 [https://github.com/cooperoelrichs/real_estate](https://github.com/cooperoelrichs/real_estate)
 Example research blogs:
 [Modelling Economic Change Using Monte Carlo Simulations](https://medium.com/@c.oelrichs/modelling-economic-change-using-monte-carlo-simulations-1e3b931f0b7c)
 [Developing a model to isolate the effect of location on property value](https://medium.com/@c.oelrichs/developing-a-model-to-isolate-the-effect-of-location-on-property-value-79f6ff345980)
 This project uses automated data collection and machine learning to predict property value and rental yield. Data is scraped from various websites and collected into a single database of property sales and rentals. The database is used to analyse and map historical trends and to develop and train a range of machine learning models including logistic regressions, random forest models, and neural networks.
 
-### 153 East Partners (Data Science and Modelling) 2018
+### 153 East Partners (Data Science and Modelling)
+**2018**
 [https://www.153east.com.au](https://www.153east.com.au)
 
 153 East Partners is an independent corporate advisory and investment firm. I have been consulting with 153 East Partners, assisting them to develop business models using financial and other data.
